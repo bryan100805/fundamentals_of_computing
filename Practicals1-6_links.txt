@@ -1,0 +1,6 @@
+Practical 1: http://localhost/wp-content/uploads/2022/08/Practical-01.pdf
+Practical 2: http://localhost/wp-content/uploads/2022/08/Practical-02_v2-CPU-Memory-and-IO-working-together.pdf
+Practical 3: http://localhost/wp-content/uploads/2022/08/Practical-03_v2-Boot-Sequence.pdf
+Practical 4: http://localhost/wp-content/uploads/2022/08/Practical-04_v2-Digital-Representation.pdf
+Practical 5: http://localhost/wp-content/uploads/2022/08/Practical-05_v2-IP-and-Ping-Utility.pdf
+Practical 6: http://localhost/wp-content/uploads/2022/08/Practical-06_v2-Capture-HTTP-Traffic-and-IP-Traffic.pdf
